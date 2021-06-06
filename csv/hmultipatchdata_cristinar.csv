@@ -1,0 +1,28 @@
+﻿nucleus_absent,Fail,1,,Inh L1-4 LAMP5 LCP2 (rosehip)
+nucleus_present,Pass,1,,Inh L2-6 LAMP5 CA1 (Igtp)
+nucleus_present,Pass,1,,Inh L1-3 PAX6 SYT6 (Sncg)
+nucleus_present,Pass,1,,Inh L2-5 VIP SERPINF1
+nucleus_present,Pass,1,,Inh L4-5 SST STK32A
+nucleus_absent,Pass,1,,Exc L2 LAMP5 LTK
+nucleus_present,Pass,1,,Exc L2-4 LINC00507 GLP2R
+nucleus_absent,Pass,1,,Exc L3-5 RORB ESR1
+nucleus_present,Pass,1,,Exc L3-5 RORB ESR1
+nucleus_present,Pass,1,,Exc L3-5 RORB ESR1
+nucleus_present,Pass,1,,Exc L3-5 RORB ESR1
+nucleus_absent,Pass,1,,Exc L3-5 RORB ESR1
+nucleus_present,Pass,1,,Exc L4-5 RORB FOLH1B
+nucleus_present,Pass,1,,Exc L4-5 RORB FOLH1B
+nucleus_present,Pass,1,,Exc L4-5 RORB FOLH1B
+nucleus_present,Pass,1,,Exc L4-6 RORB SEMA3E
+nucleus_absent,Pass,1,,Exc L4-6 RORB SEMA3E
+nucleus_present,Pass,1,,Exc L4-6 RORB SEMA3E
+nucleus_absent,Pass,1,,Exc L4-6 RORB SEMA3E
+nucleus_present,Pass,1,,Exc L4-6 RORB SEMA3E
+nucleus_present,Pass,1,,Exc L4-6 FEZF2 IL26 (NP)
+nucleus_present,Pass,0.782024063,,Exc L2-4 LINC00507 GLP2R
+nucleus_present,Pass,0.782024063,,Exc L2 LAMP5 LTK
+nucleus_present,Pass,0.782024063,,Exc L2-4 LINC00507 GLP2R
+nucleus_present,Pass,0.782024063,,Exc L2 LAMP5 LTK
+nucleus_present,Pass,0.681172041,,Exc L3-5 RORB COL22A1
+nucleus_present,Fail,0.640849887,,Inh L5-6 SST KLHDC8A
+nucleus_present,Pass,0.504462525,,Inh L2-4 PVALB WFDC2
